@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <>
 
-        <h1 className='text-center my-3 text-info'>Our Products</h1>
+        <h1 className='text-center my-3 text-info'>Products</h1>
 
         <div className="container">
             <div className="row">
